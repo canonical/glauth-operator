@@ -1,5 +1,7 @@
 # Glauth Operator
 
+[![CharmHub Badge](https://charmhub.io/glauth/badge.svg)](https://charmhub.io/glauth)
+
 Glauth provides a lightweight LDAP server with configurable backends.
 
 This operator builds a simple deployment of the Glauth server and provides a relation interface such
